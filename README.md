@@ -1,4 +1,4 @@
 
 ### PROJECTS
-## Customer Segmentation 
+## Sales Analysis
 - Link
