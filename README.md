@@ -12,4 +12,4 @@
 
 ## Cats and Dogs Ownership in the USA 
 [Cats and Dogs Ownership by States](https://public.tableau.com/shared/DH2H2GT86?:display_count=n&:origin=viz_share_link)
-#### A Dashboard showing the distribution of cats and dogs in the USA, by ownership. 
+#### A Dashboard showing the distribution of cats and dogs in the USA. 
