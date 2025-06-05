@@ -11,5 +11,5 @@
 #### A British Airways interactive dashboard that displays reviews based on traveler type, seat type, aircraft, continent, and various metrics such as cabin seat, entertainment, food, ground seat, seat comfort, value, and overall ratings. 
 
 ## Cats and Dogs Ownership in the USA 
-[Cats and Dogs Ownership by States](https://public.tableau.com/shared/H5HQM8HXP?:display_count=n&:origin=viz_share_link)
+[Cats and Dogs Ownership by States](https://public.tableau.com/views/CatsDogsAUSGeographicAnalysis/CatsDogsAUSGeographicAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 #### A Dashboard showing the distribution of cats and dogs in the USA, by ownership. 
