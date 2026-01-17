@@ -13,3 +13,7 @@
 ## Cats and Dogs Ownership in the USA 
 [Cats and Dogs Ownership by States](https://public.tableau.com/views/CatsDogsAUSGeographicAnalysis/CatsDogsAUSGeographicAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 #### A Dashboard showing the distribution of cats and dogs in the USA. 
+
+## Water in Nigeria: Insights from the 2018 OpenAfrica Dataset
+[Water Access](https://medium.com/@sadiku.19xx/analyzing-the-source-of-drinking-water-in-nigeria-insights-from-the-2018-openafrica-dataset-d10671f97fb8)
+#### Analyzing the Source of Drinking Water in Nigeria: Insights from the 2018 OpenAfrica Dataset.
