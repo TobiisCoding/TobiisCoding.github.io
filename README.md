@@ -17,3 +17,7 @@
 ## Water in Nigeria: Insights from the 2018 OpenAfrica Dataset
 [Water Access](https://medium.com/@sadiku.19xx/analyzing-the-source-of-drinking-water-in-nigeria-insights-from-the-2018-openafrica-dataset-d10671f97fb8)
 #### Analyzing the Source of Drinking Water in Nigeria: Insights from the 2018 OpenAfrica Dataset.
+
+## E-Commerce Sales & Customer Analytics Report
+[e-commerce and customer analytics Report](https://medium.com/@sadiku.19xx/e-commerce-sales-customer-analytics-report-db9675fc2e87)
+### Analyzed 96,000+ e‑commerce orders from Olist using SQL and Power BI to uncover revenue trends, customer retention challenges, and seller performance issues, delivering actionable strategies for sustainable growth.
